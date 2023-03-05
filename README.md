@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+CHECK AT HERE LIVE : https://somossy-laszlo-react-spacex-landing.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
